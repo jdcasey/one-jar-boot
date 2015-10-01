@@ -34,7 +34,6 @@ local.properties
 
 # for Mac
 .DS_Store
-/pom.xml
 /build
 
 gradle/
